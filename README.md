@@ -172,9 +172,3 @@ If you use this dataset or evaluation script, please cite:
   note = {Dataset and evaluation tools for industrial safety VQA tasks.}
 }
 ```
-
----
-
-### License
-
-This repository is licensed under [Your License]. See the LICENSE file for details.
